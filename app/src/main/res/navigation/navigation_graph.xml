@@ -47,3 +47,4 @@
             app:argType="string"
             android:defaultValue="name" />
     </fragment>
+</navigation>
